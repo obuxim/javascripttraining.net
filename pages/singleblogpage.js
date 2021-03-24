@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "../Components/Singlecoursepage/Banner";
-import Maincontent from "../Components/Singleblogpage/Maincontent";
+import Maincontent from "../components/Singleblogpage/Maincontent";
 
 const singleblogpage = () => {
   return (
